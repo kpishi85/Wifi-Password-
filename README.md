@@ -11,4 +11,4 @@ Step3: Convert the profile data into a list.
 
 Step4: Iterate over the list and run the second command to check the passwords.
 
-Step5: Store the paswords and print
+Step5: Store the passwords and print
